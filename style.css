@@ -1,0 +1,25 @@
+.done {
+  text-decoration: line-through;
+}
+
+button{
+  margin: 0px;
+}
+
+.delete{
+  font-size: .7rem;
+  margin-left: 5px;
+}
+
+li{
+  display: inline-block;
+  margin: 0px;
+}
+
+li:hover{
+  cursor: pointer;
+}
+
+div{
+  margin: 10px;
+}
